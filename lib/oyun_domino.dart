@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:kart_motoru/kart_motoru.dart';
 import 'package:studio_core/app/game_api.dart';
 
+part 'oyun_domino_esli.dart';
+
 const dominoId = 'oyun-domino';
 
 final dominoRules = TableGameRules(
